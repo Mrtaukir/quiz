@@ -1,5 +1,5 @@
 const form=document.querySelector(".quiz-form");
-const CorrectAnsawer=["C","C","D","C","A"];
+const CorrectAnsawer=["C","D","C","C","A"];
 const Que=document.querySelectorAll(".question")
 let ColorRes=document.querySelector(".question")
 form.addEventListener("submit",(event)=>{
